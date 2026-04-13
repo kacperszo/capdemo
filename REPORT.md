@@ -1,5 +1,5 @@
 # Lab Report: CAP Theorem & Hazelcast
-
+## Kacper Szot
 ## 1. Answers to scenario questions (3p)
 
 ### Exercise 1: Single node isolation (CP - AtomicLong)
